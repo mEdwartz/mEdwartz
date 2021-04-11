@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mEdwartz
 - 👀 I’m interested in bionics, biomechatronics and general robotics.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on anything that will be conducive to my language skill development.
+- 💞️ I’m looking to collaborate on anything that will be conducive to my language skill development as I am very new to coding.
 - 📫 How to reach me: morgan.edwartz@gmail.com
 
 <!---
